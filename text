@@ -1,0 +1,3 @@
+1-show all tasks : http://localhost:8000/api/tasks
+2-creat :  http://localhost:8000/api/tasks
+3-destroy : http://localhost:8000/api/tasks/{id}
